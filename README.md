@@ -1,0 +1,2 @@
+# IRiR
+R-kode: inntektsrammer
